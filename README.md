@@ -2,6 +2,8 @@
 
 This repository contains [ra-casingal](https://github.com/ra-casingal)'s Terraform configuration for [NextWork's 7 Days DevOps Challenge](https://learn.nextwork.org/projects/aws-devops-codepipeline-updated). The project is designed to demonstrate the implementation of a complete infrastructure-as-code (IaC) solution using Terraform. It provisions and manages AWS resources to set up a virtual network, deploy a web application, and create a CI/CD pipeline. This project uses [ra-casingal](https://github.com/ra-casingal)'s [Java Web Application Project](https://github.com/ra-casingal/nextwork-web-project) as the web app.
 
+Check out the **Build a CI/CD Pipeline with AWS** documentation [here](https://learn.nextwork.org/portfolio/documents/Nbbm9rZJxbOBlDjrfYaK).
+
 ## Project Diagram
 
 ![Terraform Implementation of NextWork's 7 Days DevOps Challenge Diagram](diagram.png)
