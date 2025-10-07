@@ -4,7 +4,7 @@ This repository contains [ra-casingal](https://github.com/ra-casingal)'s Terrafo
 
 ## Project Diagram
 
-<img src="diagram.png" alt="Terraform Implementation of NextWork's 7 Days DevOps Challenge Diagram" style="width:60%; height:auto;">
+![Terraform Implementation of NextWork's 7 Days DevOps Challenge Diagram](diagram.png)
 
 ## Project Overview
 
