@@ -1,0 +1,10 @@
+codeartifact_upstream_repository_name = "nextwork-devops-challenge-upstream"
+s3_bucket_artifacts_name = "nextwork-devops-challenge-codebuild-artifacts"
+iam_codebuild_role_name = "nextwork-devops-challenge-codebuild-role"
+iam_codebuild_service_role_name = "nextwork-devops-challenge-codebuild-service-role"
+codedeploy_service_role_name = "nextwork-devops-challenge-codedeploy-service-role"
+codepipeline_service_role_name = "nextwork-devops-challenge-codepipeline-service-role"
+codestar_connection_arn = "" // Add your own CodeStar Connection ARN to connect to your GitHub repository
+github_full_name = "ra-casingal/nextwork-web-project"
+github_branch = "main"
+
